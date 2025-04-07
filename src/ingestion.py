@@ -3,6 +3,7 @@ import pandas as pd
 from datetime import datetime , timedelta
 import logging
 
+
 # Configuración del logger
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
