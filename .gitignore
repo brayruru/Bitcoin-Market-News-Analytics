@@ -1,0 +1,19 @@
+# Ignore logs
+logs/
+*.log
+
+# Ignore database files
+db/
+*.db
+*.sqlite3
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Entornos virtuales (por si usas venv)
+venv/
+.env
