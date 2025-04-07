@@ -72,7 +72,6 @@ bitcoin_pipeline/
 - Estrategia de cruce de medias móviles:
   - Buy: SMA corta cruza hacia arriba SMA larga.
   - Sell: SMA corta cruza hacia abajo SMA larga.
-- Visualización en `matplotlib`.
 
 ---
 
