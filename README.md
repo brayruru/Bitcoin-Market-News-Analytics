@@ -116,5 +116,5 @@ python main.py
 ---
 
 ## 📄 Autor
-- [Tu Nombre / GitHub]
+- [Brayan Ruiz / Brayruru]
 - Proyecto para evaluación técnica de ingeniería de datos
